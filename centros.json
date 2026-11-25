@@ -1,0 +1,190 @@
+{
+  "centros": [
+    {
+      "id": 1,
+      "nombre": "Centro SaludIntegral Carabanchel",
+      "direccion": "Calle General Ricardos, 120",
+      "municipio": "Madrid",
+      "coordenadas": {
+        "lat": 40.3889,
+        "lon": -3.7311
+      },
+      "especialidades": [
+        "Medicina general",
+        "Pediatría",
+        "Traumatología"
+      ],
+      "urgencias": true
+    },
+    {
+      "id": 2,
+      "nombre": "Centro SaludIntegral Chamberí",
+      "direccion": "Calle Fuencarral, 140",
+      "municipio": "Madrid",
+      "coordenadas": {
+        "lat": 40.4347,
+        "lon": -3.7036
+      },
+      "especialidades": [
+        "Medicina general",
+        "Dermatología",
+        "Oftalmología"
+      ],
+      "urgencias": false
+    },
+    {
+      "id": 3,
+      "nombre": "Centro SaludIntegral Salamanca",
+      "direccion": "Calle Goya, 85",
+      "municipio": "Madrid",
+      "coordenadas": {
+        "lat": 40.4254,
+        "lon": -3.676
+      },
+      "especialidades": [
+        "Cardiología",
+        "Dermatología",
+        "Ginecología"
+      ],
+      "urgencias": false
+    },
+    {
+      "id": 4,
+      "nombre": "Centro SaludIntegral Moncloa",
+      "direccion": "Calle Princesa, 60",
+      "municipio": "Madrid",
+      "coordenadas": {
+        "lat": 40.4351,
+        "lon": -3.719
+      },
+      "especialidades": [
+        "Medicina general",
+        "Traumatología"
+      ],
+      "urgencias": true
+    },
+    {
+      "id": 5,
+      "nombre": "Centro SaludIntegral Vallecas",
+      "direccion": "Avenida de la Albufera, 200",
+      "municipio": "Madrid",
+      "coordenadas": {
+        "lat": 40.3843,
+        "lon": -3.6589
+      },
+      "especialidades": [
+        "Medicina general",
+        "Pediatría"
+      ],
+      "urgencias": true
+    },
+    {
+      "id": 6,
+      "nombre": "Centro SaludIntegral Tetuán",
+      "direccion": "Calle Bravo Murillo, 300",
+      "municipio": "Madrid",
+      "coordenadas": {
+        "lat": 40.46,
+        "lon": -3.698
+      },
+      "especialidades": [
+        "Oftalmología",
+        "Ginecología"
+      ],
+      "urgencias": false
+    },
+    {
+      "id": 7,
+      "nombre": "Centro SaludIntegral Las Rozas",
+      "direccion": "Calle Real, 25",
+      "municipio": "Las Rozas de Madrid",
+      "coordenadas": {
+        "lat": 40.4929,
+        "lon": -3.8737
+      },
+      "especialidades": [
+        "Medicina general",
+        "Pediatría",
+        "Cardiología"
+      ],
+      "urgencias": true
+    },
+    {
+      "id": 8,
+      "nombre": "Centro SaludIntegral Pozuelo",
+      "direccion": "Avenida de Europa, 10",
+      "municipio": "Pozuelo de Alarcón",
+      "coordenadas": {
+        "lat": 40.4393,
+        "lon": -3.7931
+      },
+      "especialidades": [
+        "Dermatología",
+        "Traumatología"
+      ],
+      "urgencias": false
+    },
+    {
+      "id": 9,
+      "nombre": "Centro SaludIntegral Alcobendas",
+      "direccion": "Avenida de España, 40",
+      "municipio": "Alcobendas",
+      "coordenadas": {
+        "lat": 40.5373,
+        "lon": -3.6372
+      },
+      "especialidades": [
+        "Medicina general",
+        "Cardiología"
+      ],
+      "urgencias": true
+    },
+    {
+      "id": 10,
+      "nombre": "Centro SaludIntegral Getafe",
+      "direccion": "Calle Madrid, 70",
+      "municipio": "Getafe",
+      "coordenadas": {
+        "lat": 40.3083,
+        "lon": -3.7327
+      },
+      "especialidades": [
+        "Medicina general",
+        "Pediatría",
+        "Ginecología"
+      ],
+      "urgencias": true
+    },
+    {
+      "id": 11,
+      "nombre": "Centro SaludIntegral Leganés",
+      "direccion": "Avenida de la Universidad, 15",
+      "municipio": "Leganés",
+      "coordenadas": {
+        "lat": 40.3281,
+        "lon": -3.7635
+      },
+      "especialidades": [
+        "Traumatología",
+        "Oftalmología"
+      ],
+      "urgencias": false
+    },
+    {
+      "id": 12,
+      "nombre": "Centro SaludIntegral Alcalá",
+      "direccion": "Calle Mayor, 50",
+      "municipio": "Alcalá de Henares",
+      "coordenadas": {
+        "lat": 40.4818,
+        "lon": -3.3643
+      },
+      "especialidades": [
+        "Medicina general",
+        "Cardiología",
+        "Pediatría"
+      ],
+      "urgencias": true
+    }
+  ]
+}
